@@ -9,3 +9,4 @@
 -	In the interactive tool provide the command "QUERY IP cpu_id time_start time_end" to filter IPs between the start and end time. IP address should be in between ‘192.168.1.1’ - ‘192.168.4.235’.
     -	Exapmle: QUERY 192.168.1.12 0 2014-10-31 00:00 2014-10-31 00:05
 -	In the interactive tool provide the command "EXIT"(all caps) to exit from the interactive tool.
+-	Add intelligence to this system by using LLM. 
